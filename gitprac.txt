@@ -2,3 +2,6 @@
 
 
 Welcome to gitprac
+
+1.create repo
+2.clone repo
